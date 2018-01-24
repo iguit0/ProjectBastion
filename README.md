@@ -1,5 +1,5 @@
 # Project Bastion :robot:
-Bastion é um dos vários heróis do jogo Overwatch. È um nômade que fora construído para ser um
+Bastion é um dos vários heróis do jogo Overwatch. É um nômade que fora construído para ser um
 combatente de guerra, mas que agora está viajando para satisfazer sua curiosidade sobre a natureza
 além de descobrir o mundo, e assim, deixar para trás seu horrível passado. É, originalmente, um robô
 de defesa. Tem 2 metros de altura, e foi fabricado na Suécia nos laboratórios SST.
@@ -22,3 +22,7 @@ localização corrente. Não está, de forma alguma, no nível competitivo, por�
 desempenho é, incrivelmente, muito bom.
 
 <p align="center"><img src="http://imagem.b2s-space.com/upimg/60505/0/654280a882.jpg"></p>
+
+## Referência
+* [História do Bastion](https://overwatch.gamepedia.com/Bastion)
+* [Robocode Docs](http://robocode.sourceforge.net/docs/robocode/)
