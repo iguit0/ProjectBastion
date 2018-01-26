@@ -6,7 +6,7 @@ de defesa. Tem 2 metros de altura, e foi fabricado na Suécia nos laboratórios 
 
 <p align="center"><img src="https://cdna.artstation.com/p/assets/images/images/006/005/734/large/federico-cimini-bastion-skin-jpg-hi-res.jpg?1495369899" width="300x300"></p>
 
-## Movimentação :arrows_counterclockwise:
+## Movimentação :running:
 Assim como o herói do jogo, este robô é especialista em combates 1v1. Sua característica e estilo de
 jogo é defender sua base e aliados (ou a si mesmo quando esta não se aplica). Seu radar foca e trava
 em qualquer inimigo que encontrar, a ideia é que não percamos o oponente “de vista”. Além de
@@ -25,4 +25,4 @@ desempenho é, incrivelmente, muito bom.
 
 ## Referência
 * [História do Bastion](https://overwatch.gamepedia.com/Bastion)
-* [Robocode Docs](http://robocode.sourceforge.net/docs/robocode/)
+* [Robocode Documentation](http://robocode.sourceforge.net/docs/robocode/)
