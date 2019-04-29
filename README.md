@@ -1,4 +1,5 @@
-# Project Bastion :robot:
+<h2 align="center">Project Bastion :robot:</h2>
+
 Bastion é um dos vários heróis do jogo Overwatch. É um nômade que fora construído para ser um
 combatente de guerra, mas que agora está viajando para satisfazer sua curiosidade sobre a natureza
 além de descobrir o mundo, e assim, deixar para trás seu horrível passado. É, originalmente, um robô
