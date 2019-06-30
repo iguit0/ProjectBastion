@@ -22,8 +22,6 @@ realizar transições de radar de forma efetiva, buscando sempre o que está mai
 localização corrente. Não está, de forma alguma, no nível competitivo, porém, em situações 1v1 seu
 desempenho é, incrivelmente, muito bom.
 
-<p align="center"><img src="http://imagem.b2s-space.com/upimg/60505/0/654280a882.jpg"></p>
-
-## Referência
+## Referência :book:
 * [História do Bastion](https://overwatch.gamepedia.com/Bastion)
 * [Robocode Documentation](http://robocode.sourceforge.net/docs/robocode/)
