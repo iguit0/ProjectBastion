@@ -5,8 +5,6 @@ combatente de guerra, mas que agora está viajando para satisfazer sua curiosida
 além de descobrir o mundo, e assim, deixar para trás seu horrível passado. É, originalmente, um robô
 de defesa. Tem 2 metros de altura, e foi fabricado na Suécia nos laboratórios SST.
 
-<p align="center"><img src="https://cdna.artstation.com/p/assets/images/images/006/005/734/large/federico-cimini-bastion-skin-jpg-hi-res.jpg?1495369899" width="300x300"></p>
-
 ## Movimentação :running:
 Assim como o herói do jogo, este robô é especialista em combates 1v1. Sua característica e estilo de
 jogo é defender sua base e aliados (ou a si mesmo quando esta não se aplica). Seu radar foca e trava
